@@ -37,4 +37,4 @@ Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE pa
 ---
 **Autor:** Jose Belchí Hernández
 
-**Licencia:** [MIT]
+**Licencia:** [MIT](https://github.com/josebelchi/Luhn-Algorithm/blob/main/LICENSE.txt)
